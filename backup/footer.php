@@ -14,4 +14,3 @@
 <?php $this->footer(); ?>
 </body>
 </html>
-<!--for test-->
